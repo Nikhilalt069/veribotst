@@ -1,0 +1,5 @@
+telebot
+flask
+psycopg2-binary
+python-dotenv
+requests
